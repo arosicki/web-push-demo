@@ -1,10 +1,17 @@
 # Web Push Demo
 
+_Can be tested on multiple desktop devices in same local network._
+_Will not work on mobile devices due to https protocol requirement_
+_In order to accept notifications._
+
 Based on [this article](https://felixgerschau.com/web-push-notifications-tutorial/#the-technology-behind-web-push-notifications).
 
-### Run Backend
+## How to run
+
+### Backend
 
 _prerequisites:_
+
 Install Python 3.10
 
 ```
@@ -18,7 +25,7 @@ _run:_
 python -m uvicorn main:app --port 5000 --host 0.0.0.0 --reload
 ```
 
-### Run Frontend
+### Frontend
 
 _prerequisites:_
 Install Node 18
