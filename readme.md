@@ -2,7 +2,7 @@
 
 _Can be tested on multiple desktop devices in same local network._
 _Will not work on mobile devices due to https protocol requirement_
-_In order to accept notifications._
+_in order to accept notifications._
 
 Based on [this article](https://felixgerschau.com/web-push-notifications-tutorial/#the-technology-behind-web-push-notifications).
 
