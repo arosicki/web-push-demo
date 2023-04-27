@@ -1,0 +1,5 @@
+fastapi==0.95.1
+uvicorn[standard]==0.21.1
+requests==2.29.0
+http_ece==1.1.0
+pywebpush==1.14.0
